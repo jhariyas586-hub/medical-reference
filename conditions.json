@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Urinary tract infection (UTI)",
+    "aliases": [
+      "urine infection",
+      "uti",
+      "peshab me jalan"
+    ],
+    "symptoms": [
+      "Burning or pain while urinating",
+      "Frequent or urgent urination",
+      "Lower abdominal discomfort",
+      "Sometimes cloudy urine or blood in urine"
+    ],
+    "classes": [
+      "Antibiotic selection requires clinical assessment; examples of classes/agents used in selected lower UTIs include nitrofurantoin and fosfomycin. They are not suitable for every UTI or kidney infection."
+    ],
+    "tests": [
+      "Urine routine/microscopy",
+      "Urine culture and sensitivity when indicated"
+    ],
+    "precautions": [
+      "Do not start, repeat, share, or stop antibiotics without an authorized prescriber.",
+      "Pregnancy, allergy, kidney function, culture results and local resistance patterns affect treatment."
+    ],
+    "refer": [
+      "Fever/chills, flank or back pain, vomiting",
+      "Pregnancy, child, male patient, recurrent UTI or kidney disease",
+      "Blood in urine, inability to urinate, confusion or severe weakness"
+    ]
+  },
+  {
+    "name": "Fever",
+    "aliases": [
+      "bukhar",
+      "temperature"
+    ],
+    "symptoms": [
+      "Raised body temperature",
+      "Chills or sweating",
+      "Headache, body aches or weakness"
+    ],
+    "classes": [
+      "Fever is a symptom, not a diagnosis. Symptom-relief medicines must be selected with age, weight, allergies, other medicines and liver/kidney history in mind."
+    ],
+    "tests": [
+      "Tests depend on cause, duration, age and examination; not every fever needs the same tests."
+    ],
+    "precautions": [
+      "Record temperature, duration and accompanying symptoms.",
+      "Do not use adult products or doses for children.",
+      "Antibiotics are not routine treatment for viral infections."
+    ],
+    "refer": [
+      "Breathing difficulty, confusion, seizure, dehydration or severe weakness",
+      "Infant, pregnancy, immune compromise, persistent or worsening fever"
+    ]
+  },
+  {
+    "name": "Common cold and cough",
+    "aliases": [
+      "cold",
+      "cough",
+      "sardi",
+      "khansi"
+    ],
+    "symptoms": [
+      "Runny or blocked nose",
+      "Sneezing or sore throat",
+      "Cough; sometimes mild fever"
+    ],
+    "classes": [
+      "Most common colds are viral. Symptom-relief product classes differ; age, other conditions and duplicate ingredients must be checked."
+    ],
+    "tests": [
+      "Often clinical assessment; testing depends on symptoms and risk."
+    ],
+    "precautions": [
+      "Antibiotics do not routinely treat common colds.",
+      "Avoid duplicate ingredients in combination products.",
+      "Do not give cough/cold medicines to young children without clinician advice."
+    ],
+    "refer": [
+      "Shortness of breath, chest pain, dehydration",
+      "High/persistent fever or worsening symptoms",
+      "Worsening asthma or other serious chronic illness"
+    ]
+  },
+  {
+    "name": "Acidity / heartburn",
+    "aliases": [
+      "acidity",
+      "gas",
+      "heartburn",
+      "acid reflux"
+    ],
+    "symptoms": [
+      "Burning behind the breastbone, often after meals",
+      "Sour taste or regurgitation",
+      "Upper abdominal discomfort"
+    ],
+    "classes": [
+      "Antacids, alginates, H2 blockers and proton-pump inhibitors are different classes; suitability depends on symptoms, duration, other medicines and medical history."
+    ],
+    "tests": [
+      "Persistent or recurrent symptoms may need clinical evaluation."
+    ],
+    "precautions": [
+      "Frequent self-treatment can delay diagnosis.",
+      "Check interactions and kidney-related precautions."
+    ],
+    "refer": [
+      "Chest pain/pressure with sweating or breathlessness: emergency assessment",
+      "Difficulty swallowing, unexplained weight loss, repeated vomiting, black stool or blood",
+      "New, persistent or worsening symptoms"
+    ]
+  },
+  {
+    "name": "Diarrhoea",
+    "aliases": [
+      "diarrhea",
+      "loose motion",
+      "dast"
+    ],
+    "symptoms": [
+      "Loose or watery stools",
+      "Abdominal cramps",
+      "Sometimes nausea or fever"
+    ],
+    "classes": [
+      "Oral rehydration solution (ORS) helps prevent dehydration. Anti-diarrhoeal medicines are not suitable for everyone; antibiotics are used only for selected causes under clinical direction."
+    ],
+    "tests": [
+      "Testing may be considered for severe, prolonged or bloody diarrhoea."
+    ],
+    "precautions": [
+      "Prepare ORS exactly as the packet instructs.",
+      "Children can become dehydrated quickly.",
+      "Avoid self-treatment when there is blood in stool or fever."
+    ],
+    "refer": [
+      "Blood in stool, severe abdominal pain or high fever",
+      "Very little urine, dizziness, lethargy or signs of dehydration",
+      "Infant, older adult, pregnancy or persistent symptoms"
+    ]
+  }
+]
